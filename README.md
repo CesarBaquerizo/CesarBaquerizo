@@ -1,5 +1,5 @@
 <p align="right">
-
+  
 </p>
 
 <h2 align="center">¡Hola! Soy Cesar 👨‍💻</h2>
@@ -11,6 +11,8 @@
 </p>
 
 ### Sobre mí 🚀
+
+<div><img align="right" alt="Coding GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="auto" /></div>
 
 - ¡Hola a todos! Mi nombre es Cesar Baquerizo, soy de Lima, Perú 🗻
 - Actualmente soy estudiante de pregrado en Ingeniería de Sistemas en la ULima 👨‍🎓
@@ -33,6 +35,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Banner GIF" width="100%">
-</p>
+
+
+#
+
+
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
